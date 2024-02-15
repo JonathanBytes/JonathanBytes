@@ -71,6 +71,6 @@ I'm Jonathan, a Physics Engineering stundent and a self-taught programmer. I'm f
   </p>
 </details>
 
-<!-- <center> -->
-<!--     <img alt="Visitor Count" src="https://profile-counter.glitch.me/JonathanBytes/count.svg" /> -->
-<!-- </center> -->
+<center>
+    <img alt="Visitor Count" src="https://profile-counter.glitch.me/JonathanBytes/count.svg" />
+</center>
